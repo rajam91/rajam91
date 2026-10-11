@@ -1,4 +1,6 @@
-## Hi, I'm Marwah RAJA, a cybersecurity student.
+## Hi, I'm Marwah RAJA
+
+Cybersecurity student.
 
 ### What I work with
 
